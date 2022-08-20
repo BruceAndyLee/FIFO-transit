@@ -1,2 +1,3 @@
 # FIFO-transit
-# Using fifo OS concept to convey a file from one process to another 
+Using FIFO from linux OS to transfer data from one process to another.
+Race conditions addressed in the code.
